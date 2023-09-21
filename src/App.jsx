@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Gallery from "./components/Gallery.jsx";
 import Navbar from "./components/layouts/Navbar.jsx";
-import Login from "./components/login.jsx";
+import Login from "./components/Login.jsx";
 import Register from "./components/Register.jsx";
 
 function App() {
