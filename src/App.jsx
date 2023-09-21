@@ -1,8 +1,8 @@
 import { useState } from "react";
-import Gallery from "./components/gallery";
-import Navbar from "./components/layouts/Navbar";
-import Login from "./components/login";
-import Register from "./components/Register"
+import Gallery from "./components/Gallery.jsx";
+import Navbar from "./components/layouts/Navbar.jsx";
+import Login from "./components/login.jsx";
+import Register from "./components/Register.jsx";
 
 function App() {
   const auth = sessionStorage.getItem("imageGalleryAuth");
@@ -24,13 +24,17 @@ function App() {
                 searchFilter={searchFilter}
                 setSearchFilter={setSearchFilter}
               />
-              <Gallery auth={auth} searchFilter={searchFilter} setSearchFilter={setSearchFilter} />
+              <Gallery
+                auth={auth}
+                searchFilter={searchFilter}
+                setSearchFilter={setSearchFilter}
+              />
             </div>
           ) : (
             <>
               {login ? (
                 <Login setLogin={setLogin} setIsLoading={setIsLoading} />
-              ):(
+              ) : (
                 <Register setLogin={setLogin} setIsLoading={setIsLoading} />
               )}
             </>
