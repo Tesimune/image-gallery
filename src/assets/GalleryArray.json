@@ -1,0 +1,64 @@
+{
+    "GalleryArray" : [
+        {
+            "id": "1",
+            "title": "Standing Bird",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.MKkCCpOaaouDkyjoTU9VSwHaHq%26pid%3DApi%26h%3D160&f=1&ipt=46017dc9d5d6de32dc0251d9da82bd619d39c02e492bf54e1bfed5327a49a517&ipo=images"
+        },
+        {
+            "id": "2",
+            "title": "Flying Bird",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.nzRctJNNWiyP7uUJp704wgHaEo%26pid%3DApi%26h%3D160&f=1&ipt=05a04ad2e2dfe70c12d5172d13a0d414e003a896199527c5ee07a21349b1e9a8&ipo=images"
+        },
+        {
+            "id": "3",
+            "title": "Parrot",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.OjAbu2XibyQu3mL1mRwhaAHaFK%26pid%3DApi%26h%3D160&f=1&ipt=e6bff7a649536f0285d4f96989b3acd112db455b1e5020e8988475d0788a8dae&ipo=images"
+        },
+        {
+            "id": "4",
+            "title": "Sparrow",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.C23n9c42qn5m-NLPE_L8nQHaE8%26pid%3DApi%26h%3D160&f=1&ipt=415d2a1aba064e55c5696f3ca2ae528fc7b3ad8ca46610c50cb123c6dfdfabf3&ipo=images"
+        },
+        {
+            "id": "5",
+            "title": "Red Bird",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.NLanjYHm2BH1urZ7l5V0zAHaFS%26pid%3DApi&f=1&ipt=5b2262d3dbbed7d36e163ca16c60ad3c857b4bb3dc15c73667758b536a8ee900&ipo=images"
+        },
+        {
+            "id": "6",
+            "title": "Colorful Bird",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.fn-EvnT6F4MG3Ki5cE8FKgHaFj%26pid%3DApi&f=1&ipt=f87371ab4b69b4194483a749a96eeae05aeb5130f679b303c127010d50a5a573&ipo=images"
+        },
+        {
+            "id": "7",
+            "title": "Swimming Bird",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.vipjXQDvpZZxMBRyVqjQlwHaEo%26pid%3DApi&f=1&ipt=7b0a893f294c88ee704d48467379558f75aa0303bf13b1e0b769415fb0177d8a&ipo=images"
+        },
+        {
+            "id": "8",
+            "title": "Eagle ",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.r7CKE4lhT1dKJ8bJxGso6QHaF7%26pid%3DApi&f=1&ipt=938150c4ccfe8195d57cd55ed84af7317817b5dcf74f3fe52c2281e9b49ca381&ipo=images"
+        },
+        {
+            "id": "9",
+            "title": "Prey Bird",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.uIVUYWLbRdp_5gLOuB9LRwHaEo%26pid%3DApi&f=1&ipt=be0413a13bb373f5d2b263c6ca71c7a3c300f3fb6a88f854f4643706ef6df6a2&ipo=images"
+        },
+        {
+            "id": "10",
+            "title": "Game Bird",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.l8Dmb6CHIiqHfuKn0hE1SgHaGo%26pid%3DApi&f=1&ipt=1169e799163f9dc19a052ce4ef6671135d73a576ba11e108a589abb6b6b6de6b&ipo=images"
+        },
+        {
+            "id": "11",
+            "title": "Exotic Bird",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.62Pwho83vmP1QrBxilIdBQHaEo%26pid%3DApi&f=1&ipt=de42a3c884490f3edc25c60603bbac2bd1d3483ded936685135dddea4bf584e9&ipo=imagess"
+        },
+        {
+            "id": "12",
+            "title": "Heron Bird",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.bobtFujF_K2yPVxVhwl4TAHaFj%26pid%3DApi&f=1&ipt=245895273145afdee478d0854a3acc9261d29ddcc075be86795a87cb0842f8a9&ipo=images"
+        }
+    ]
+}
